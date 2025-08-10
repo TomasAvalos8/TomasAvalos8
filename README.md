@@ -29,5 +29,6 @@ Estoy siempre buscando aprender y mejorar, y me entusiasma formar parte de proye
 ## 📫 Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tomas-avalos)
+- 🌐[Portfolio](tomasavalos.com.ar)
 - 📧 tomasgonzaloavalos@gmail.com   
 - 📍 Buenos Aires, Argentina  
